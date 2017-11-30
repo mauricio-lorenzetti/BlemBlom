@@ -1,0 +1,6 @@
+framework module Pods_BlemBlom_ {
+  umbrella header "Pods-BlemBlom!-umbrella.h"
+
+  export *
+  module * { export * }
+}
